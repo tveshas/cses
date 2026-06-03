@@ -45,3 +45,17 @@ Solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in C++.
 | [Subarray Divisibility](https://cses.fi/problemset/task/1662) | [subarrdiv.cpp](sort%20and%20search/subarrdiv.cpp) |
 | [Array Division](https://cses.fi/problemset/task/1085) | [arraydiv.cpp](sort%20and%20search/arraydiv.cpp) |
 | [Playlist](https://cses.fi/problemset/task/1141) | [playl.cpp](sort%20and%20search/playl.cpp) |
+
+## Graph Algorithms
+
+| Problem | Solution |
+|---|---|
+| [Counting Rooms](https://cses.fi/problemset/task/1192) | [countroom.cpp](graph/countroom.cpp) |
+| [Labyrinth](https://cses.fi/problemset/task/1193) | [labrynth.cpp](graph/labrynth.cpp) |
+| [Building Roads](https://cses.fi/problemset/task/1666) | [buildroads.cpp](graph/buildroads.cpp) |
+| [Message Route](https://cses.fi/problemset/task/1667) | [msgroute.cpp](graph/msgroute.cpp) |
+| [Building Teams](https://cses.fi/problemset/task/1668) | [buildteam.cpp](graph/buildteam.cpp) |
+| [Round Trip](https://cses.fi/problemset/task/1669) | [roundtrip.cpp](graph/roundtrip.cpp) |
+| [Shortest Routes I](https://cses.fi/problemset/task/1671) | [shortrout.cpp](graph/shortrout.cpp) |
+| [Shortest Routes II](https://cses.fi/problemset/task/1672) | [shortrout2.cpp](graph/shortrout2.cpp) |
+| [Round Trip II](https://cses.fi/problemset/task/1678) | [roundtrip2.cpp](graph/roundtrip2.cpp) |
