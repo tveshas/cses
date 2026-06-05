@@ -59,3 +59,8 @@ Solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in C++.
 | [Shortest Routes I](https://cses.fi/problemset/task/1671) | [shortrout.cpp](graph/shortrout.cpp) |
 | [Shortest Routes II](https://cses.fi/problemset/task/1672) | [shortrout2.cpp](graph/shortrout2.cpp) |
 | [Round Trip II](https://cses.fi/problemset/task/1678) | [roundtrip2.cpp](graph/roundtrip2.cpp) |
+| [Cycle Finding](https://cses.fi/problemset/task/1197) | [cycle.cpp](graph/cycle.cpp) |
+| [Flight Routes](https://cses.fi/problemset/task/1196) | [flightroute.cpp](graph/flightroute.cpp) |
+| [Road Reparation](https://cses.fi/problemset/task/1675) | [roadrep.cpp](graph/roadrep.cpp) |
+| [Course Schedule](https://cses.fi/problemset/task/1679) | [coursesched.cpp](graph/coursesched.cpp) |
+| [Longest Flight Route](https://cses.fi/problemset/task/1680) | [longflight.cpp](graph/longflight.cpp) |
