@@ -64,3 +64,15 @@ Solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in C++.
 | [Road Reparation](https://cses.fi/problemset/task/1675) | [roadrep.cpp](graph/roadrep.cpp) |
 | [Course Schedule](https://cses.fi/problemset/task/1679) | [coursesched.cpp](graph/coursesched.cpp) |
 | [Longest Flight Route](https://cses.fi/problemset/task/1680) | [longflight.cpp](graph/longflight.cpp) |
+
+## Tree Algorithms
+
+| Problem | Solution |
+|---|---|
+| [Subordinates](https://cses.fi/problemset/task/1674) | [subord.cpp](trees/subord.cpp) |
+| [Tree Diameter](https://cses.fi/problemset/task/1131) | [diam.cpp](trees/diam.cpp) |
+| [Finding a Centroid](https://cses.fi/problemset/task/2079) | [teematch.cpp](trees/teematch.cpp) |
+| [Distances in a Tree](https://cses.fi/problemset/task/1132) | [dist1.cpp](trees/dist1.cpp) |
+| [Company Queries I](https://cses.fi/problemset/task/1687) | [compq1.cpp](trees/compq1.cpp) |
+| [Company Queries II](https://cses.fi/problemset/task/1688) | [compq2.cpp](trees/compq2.cpp) |
+| [Distance Queries](https://cses.fi/problemset/task/1135) | [distq.cpp](trees/distq.cpp) |
