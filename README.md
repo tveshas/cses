@@ -76,3 +76,20 @@ Solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in C++.
 | [Company Queries I](https://cses.fi/problemset/task/1687) | [compq1.cpp](trees/compq1.cpp) |
 | [Company Queries II](https://cses.fi/problemset/task/1688) | [compq2.cpp](trees/compq2.cpp) |
 | [Distance Queries](https://cses.fi/problemset/task/1135) | [distq.cpp](trees/distq.cpp) |
+
+## Dynamic Programming
+
+| Problem | Solution |
+|---|---|
+| [Dice Combinations](https://cses.fi/problemset/task/1634) | [dice.cpp](dp/dice.cpp) |
+| [Minimizing Coins](https://cses.fi/problemset/task/1635) | [mincoin.cpp](dp/mincoin.cpp) |
+| [Coin Combinations I](https://cses.fi/problemset/task/1636) | [coin1.cpp](dp/coin1.cpp) |
+| [Coin Combinations II](https://cses.fi/problemset/task/1637) | [coin2.cpp](dp/coin2.cpp) |
+| [Removing Digits](https://cses.fi/problemset/task/1638) | [remdig.cpp](dp/remdig.cpp) |
+| [Grid Paths](https://cses.fi/problemset/task/1639) | [gridp.cpp](dp/gridp.cpp) |
+| [Book Shop](https://cses.fi/problemset/task/1744) | [bookshop.cpp](dp/bookshop.cpp) |
+| [Edit Distance](https://cses.fi/problemset/task/1745) | [editd.cpp](dp/editd.cpp) |
+| [Longest Common Subsequence](https://cses.fi/problemset/task/1746) | [lcs.cpp](dp/lcs.cpp) |
+| [Two Sets II](https://cses.fi/problemset/task/1093) | [2set.cpp](dp/2set.cpp) |
+| [Projects](https://cses.fi/problemset/task/1140) | [proj.cpp](dp/proj.cpp) |
+| [Removal Game](https://cses.fi/problemset/task/1097) | [remg.cpp](dp/remg.cpp) |
