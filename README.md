@@ -93,3 +93,13 @@ Solutions to the [CSES Problem Set](https://cses.fi/problemset/) written in C++.
 | [Two Sets II](https://cses.fi/problemset/task/1093) | [2set.cpp](dp/2set.cpp) |
 | [Projects](https://cses.fi/problemset/task/1140) | [proj.cpp](dp/proj.cpp) |
 | [Removal Game](https://cses.fi/problemset/task/1097) | [remg.cpp](dp/remg.cpp) |
+
+## Mathematics
+
+| Problem | Solution |
+|---|---|
+| [Exponentiation](https://cses.fi/problemset/task/1095) | [exp.cpp](math/exp.cpp) |
+| [Exponentiation II](https://cses.fi/problemset/task/1712) | [exp2.cpp](math/exp2.cpp) |
+| [Binomial Coefficients](https://cses.fi/problemset/task/1079) | [bincoeff.cpp](math/bincoeff.cpp) |
+| [Counting Divisors](https://cses.fi/problemset/task/1081) | [countdiv.cpp](math/countdiv.cpp) |
+| [Common Divisors](https://cses.fi/problemset/task/1082) | [comdiv.cpp](math/comdiv.cpp) |
